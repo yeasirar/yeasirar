@@ -5,7 +5,7 @@
 ### :supervillain_man: About me
 
 - 🎓 Studying Computer Science & Engineering at United International University.
-- 🌱 Learning more about Machine Learning, Artificial Intelligence & UX Design
+- 🌱 Learning more about Machine Learning, Artificial Intelligence
 - 💼 Working as Android App Developer at [SoftnGeek](softngeek.com)
 - 💼 OOP - AOOP Instructor at [UIU APP FORUM](https://www.facebook.com/uiuappf/)
 - 👯 I’m looking to collaborate on Machine Learning based project with python.
