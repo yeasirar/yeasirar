@@ -7,7 +7,7 @@
 - 🎓 Studying Computer Science & Engineering at United International University.
 - 🌱 Interested in Machine Learning, Artificial Intelligence, DIP, NLP
 <!-- - 💼 Working as Android App Developer at [SoftnGeek](softngeek.com) -->
-- 💼 OOP - AOOP Instructor at [UIU APP FORUM](https://www.facebook.com/uiuappf/)
+<!-- - 💼 OOP - AOOP Instructor at [UIU APP FORUM](https://www.facebook.com/uiuappf/) -->
 <!-- - 👯 I’m looking to collaborate on Machine Learning based project with python. -->
 - 💬 Writing technology related blog posts on [SoftnGeek](https://www.softngeek.com/)
 - 📫 How to reach me: [Email me](mailto:yeasirar@gmail.com)
