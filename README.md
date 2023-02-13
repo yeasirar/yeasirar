@@ -1,5 +1,5 @@
 ## Hey there traveller! 👋 I'm [Yeasir Arafat](https://github.com/YeasirAR)
-## 🚀 Tech Enthusiast | Content Creator | Android Developer 🚀
+## 🚀 Tech Enthusiast | Content Creator | Flutter Developer 🚀
 
 
 ### :supervillain_man: About me
