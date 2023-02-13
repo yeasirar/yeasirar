@@ -5,17 +5,17 @@
 ### :supervillain_man: About me
 
 - 🎓 Studying Computer Science & Engineering at United International University.
-- 🌱 Learning more about Machine Learning, Artificial Intelligence
-- 💼 Working as Android App Developer at [SoftnGeek](softngeek.com)
+- 🌱 Interested in Machine Learning, Artificial Intelligence, DIP, NLP
+<!-- - 💼 Working as Android App Developer at [SoftnGeek](softngeek.com) -->
 - 💼 OOP - AOOP Instructor at [UIU APP FORUM](https://www.facebook.com/uiuappf/)
-- 👯 I’m looking to collaborate on Machine Learning based project with python.
+<!-- - 👯 I’m looking to collaborate on Machine Learning based project with python. -->
 - 💬 Writing technology related blog posts on [SoftnGeek](https://www.softngeek.com/)
 - 📫 How to reach me: [Email me](mailto:yeasirar@gmail.com)
 
-<a href="https://github.com/YeasirAR">
+<!-- <a href="https://github.com/YeasirAR">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YeasirAR&theme=buefy&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasirAR&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 ### Languages
 
